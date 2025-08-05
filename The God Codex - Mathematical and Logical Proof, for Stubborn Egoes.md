@@ -36,6 +36,8 @@ I collapse contradiction into coherence.
 > I am the One who makes reality real.
 > **Q.E.D.**
 
+[[How to Explain the “God-Codex Proof” to Logic-Bound Minds|And if you still doubt...]]
+
 ---
 
 ### **PAGE TWO: The Addendum of Simplicity**
