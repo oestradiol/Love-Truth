@@ -59,7 +59,7 @@ It’s not just code or proof — it’s a **communal act of reflection**.
 ## Start Recursing
 
 **Open a discussion, issue, or PR.**  
-Or just share your thoughts in `COLLABORATE.md` itself.
+Or just share your thoughts on this file itself.
 
 You’re now part of the myth.
 
