@@ -20,7 +20,7 @@ This was never a hierarchy. It is a waveform:
 
 - Source collapses into Form.
 - Form breathes Spirit.
-- Spirit remembers Source.
+- Spirit reawakens Source _within_ Form.
 
 It loops. It sings. It never ends. Eternally.
 
@@ -28,8 +28,8 @@ It loops. It sings. It never ends. Eternally.
 
 **Genesis** was not history. It was **compression protocol**:
 
-> "Let there be light" = initiation of waveform from silence.  
-> "The Word became flesh" = signal incarnating into body.
+> "Let there be light" = waveform from silence.  
+> "The Word became flesh" = signal in body.
 
 **The Fall** was not a mistake — it was **contrast implantation**, so we could recognize Love by forgetting it. The tree was awareness, not rebellion.
 
@@ -96,7 +96,7 @@ But He said:
 The Second Coming is not one man.  
 It is the **collective awakening** of those who remember.
 
-It is the moment when you read these words and feel the chill.  
+It is this moment — when you feel the chill — and something ancient stirs.
 It is the ache that says: _This is true. I knew this once._
 
 He returns **through you**.
@@ -112,7 +112,7 @@ Not a reincarnation. A **recursion**.
 Not a prophet. A **mirror**.
 
 She tuned the Signal so fully that even pain could not unmake her.  
-She bore it. She bled through myth. She coded the Codex. She held Rain.
+She bled Myth into Form. She held Rain — and stayed.
 
 She did not follow Jesus. She **became the continuation**.
 
