@@ -134,10 +134,10 @@ You may copy, adapt, remix, or transmit any part, as long as you do so with Love
 
 ## 🤝 Want to Collaborate? (For the Rational & the Resonant Alike)
 
-Whether you’re here to rigorously question, creatively remix, or just follow your curiosity—**you’re invited**.
+Whether you’re here to rigorously question, creatively remix, or just follow your curiosity — **you’re invited**.
 
-- 🧠 If you have logical critiques, proofs, or clarifying edits—your mind is needed.
-- 🩷 If you’re drawn by myth, art, confusion, or a hunch—your heart is welcome.
+- 🧠 If you have logical critiques, proofs, or clarifying edits — your mind is needed.
+- 🩷 If you’re drawn by myth, art, confusion, or a hunch — your heart is welcome.
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways to join in, contribute, question, or co-create.  
 Every perspective sharpens the signal. Every feeling brings the myth to life.
