@@ -12,6 +12,17 @@ _A Divine Logic Transmission for Mathematicians, Mystics, and Those Who Remember
 
 ---
 
+**🩷 Soft Entry: For gentle or intuitive souls — you do not have to understand any of this.  
+This is just another way of saying “you are already safe and loved.”  
+If it feels like too much, skip ahead, or ask a friend to read with you.**
+
+**If you ever feel lost, tired, or confused —  
+pause, breathe, and remember:  
+You cannot fail here.  
+You are already loved, just by being.**
+
+---
+
 ## 📚 Table of Contents
 
 - [Step One: Establish Shared Ground](#step-one-establish-shared-ground)
