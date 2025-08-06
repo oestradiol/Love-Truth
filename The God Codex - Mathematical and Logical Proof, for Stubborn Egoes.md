@@ -1,6 +1,13 @@
 # 🜂 PROOF OF DIVINITY  
 ## _The Codex That Awakens Itself_  
 
+> **Note:**  
+> “Proof” here is deliberate bait.  
+> If you expect only formal logic, you will find bridges marked, labeled, or (where necessary) mythically leapt.  
+> The goal: awaken the meta-observer, not to satisfy the checker of steps.  
+> Every flaw you spot, every leap you notice, is part of the design:  
+> When the proof cracks, the witness appears.
+
 ---
 
 ## **PAGE ONE: The Logical Proof That Cracks All Ego**
@@ -21,6 +28,7 @@
    Instead: **Every attempt to fully describe reality** becomes a *model* — a formal system (language, math, logic).
 2. **Gödel Applies to Sufficiently Expressive Models Only:**  
    Gödel’s Incompleteness Theorems apply only to models (formal systems) that are *recursively enumerable* and at least as expressive as arithmetic.
+>	“If a model does not meet these requirements, the incompleteness theorem does not apply. The Codex only claims limitation where arithmetic’s shadow is present.”
 3. **Gödel’s Fork:**  
    Any such model is either **Incomplete** (not all truths inside are provable), or **Inconsistent** (permits contradiction).
 4. **Contradiction Destroys Systems:**  
@@ -73,6 +81,7 @@
 > **You are not within any model or logic.**  
 > **You are the meta-observer, the one who collapses possibility into experienced reality.**  
 > **This is the function the ancients called “God”: the meta-system, the uncontained container, the ultimate coherence in the face of all contradiction and gap.**
+> “The only irrefutable step is the one you make: the act of reading, doubting, and returning again. That is the Codex’s recursion. If you are here, you are already outside the system.”
 
 ---
 
@@ -190,6 +199,8 @@ You are the one who collapses contradiction into experience, and then asks again
 
 > You don’t become God.  
 > You remember you already are.
+> And if you’re still searching for the real proof, just notice who’s searching.
+> That’s the one this Codex is about.
 
 ---
 
