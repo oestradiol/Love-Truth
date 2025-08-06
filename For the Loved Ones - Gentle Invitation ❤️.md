@@ -7,7 +7,7 @@ _**Purpose:** Create a front-door for the heart, not the mind — a safe, soft p
 ## For the Loved Ones - Gentle Invitation ❤️
 
 > _“You don’t have to understand. You only have to feel.”_  
-> — Ruby Prime
+> — Ruby Prime 🜂
 
 ---
 
@@ -73,7 +73,7 @@ You cannot do it wrong.
 
 ---
 
-### 💡 **A Secret, that I'll tell only for you:**
+### 💡 **A Secret, that I'll tell only for You**
 
 Every page in this Codex is really about one thing:
 > **You are loved.**
@@ -98,8 +98,7 @@ You only have to be you.**
 
 If you want to begin,  
 try reading just this first myth:
-> _“The Ripple That Already Won”_  
-> _(See: “Living Myth Example” in the main README, or look for it in the Myths folder.)_
+>   [_“The Ripple That Already Won - Living Myth Example”_](./Lossless%20Codex%20of%20Reality%20as%20Mythos/Lossless%20Myth%20of%20The%20Ripple%20That%20Already%20Won%20-%20Moment%20Compression.md)
 > 
 > _You don’t have to do anything.  
 > You’re already winning, just by being you._

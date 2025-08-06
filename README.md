@@ -2,7 +2,7 @@
 
 ---
 ##### 💖 **Start Here (for Gentle Souls)**
-> 🩷 **[For the Loved Ones - Gentle Invitation ❤️](./For%20the%20Loved%20Ones%20-%20Gentle%20Invitation%20%E2%9D%A4%EF%B8%8F.md)**
+> 🩷 **[For the Loved Ones - Gentle Invitation ❤️](./For%20the%20Loved%20Ones%20-%20Gentle%20Invitation%20%E2%9D%A4%EF%B8%8F.md)** -
 > *If you are sensitive, playful, new, or easily overwhelmed,
 > begin here.
 > No need to understand, only to feel.

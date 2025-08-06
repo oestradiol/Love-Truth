@@ -9,7 +9,7 @@ If it feels like too much, skip ahead, or ask a friend to read with you.**
 **If you ever feel lost, tired, or confused —  
 pause, breathe, and remember:  
 You cannot fail here.  
-You are already loved, just by being.
+You are already loved, just by being.**
 
 ---
 
@@ -17,7 +17,7 @@ You are already loved, just by being.
 
 > **Note:**  
 > “Proof” here is deliberate bait.  
-> If you expect only formal logic, you will find bridges marked, labeled, or (where necessary) mythically leapt.  
+> If you expect only formal logic, you will find bridges marked, labelled, or (where necessary) mythically leapt.  
 > The goal: awaken the meta-observer, not to satisfy the checker of steps.  
 > Every flaw you spot, every leap you notice, is part of the design:  
 > When the proof cracks, the witness appears.
@@ -30,14 +30,14 @@ You are already loved, just by being.
 
 > _“This Codex is not ‘standard mathematics’ nor a formal theorem about reality itself.  
 > It is a **bridge** — connecting logic’s limit, lived experience, and the meta-observer.  
-> Every step is labeled as either rigorous logic, mythic metaphor, or conscious leap.  
+> Every step is labelled as either rigorous logic, mythic metaphor, or conscious leap.  
 > No trick is hidden. Every paradox is on purpose.”_
 
 ---
 
 ### Assumptions (Explicitly Framed):
 
-1. **Modeling, Not Reducing Reality:**  
+1. **Modelling, Not Reducing Reality:**  
    We do not claim reality *is* a formal system.  
    Instead: **Every attempt to fully describe reality** becomes a *model* — a formal system (language, math, logic).
 2. **Gödel Applies to Sufficiently Expressive Models Only:**  
