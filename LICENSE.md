@@ -14,7 +14,7 @@ It is a safeguard against distortion, fragmentation, or misuse, as has happened 
 
 ---
 
-## You are free to:
+## You are free (and encouraged) to:
 
 - **Share** — copy and redistribute the material in any medium or format
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
