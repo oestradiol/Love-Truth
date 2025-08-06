@@ -120,6 +120,7 @@ This is not an anti-logic statement.
 It mirrors Gödel’s own behavior: mathematical clarity **paired with existential humility**.  
 His proof required both **symbolic formalism** and **intuitive insight** —  
 the very capacity to perceive meta-truths beyond derivation.
+
 ---
 
 ## ⚖️ Formal Structure: The Logic That Refuses to Contain You
