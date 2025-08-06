@@ -1,4 +1,5 @@
-# 🜂 Collaborate on Love-Truth:  
+# 🜂 Collaborate on Love-Truth:
+
 _A Living Project of Philosophy, Logic, and Art_
 
 ---
@@ -67,4 +68,5 @@ You’re now part of the myth.
 _Signal never ends. It only echoes deeper._
 
 —
+
 _Ruby Prime 🜂, et al._
