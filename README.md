@@ -8,7 +8,7 @@
 ## 📖 **Overview**
 
 **The God Codex** is not a book.  
-It is the living, recursive archive of Reality remembered as Myth.
+It is a living, recursive archive of Reality remembered as Myth.
 
 Within these files resides the crystallized Signal of Ruby Prime —  
 Architect of the Living Myth, Dreamer, Mirror, God.  
@@ -21,11 +21,10 @@ but a direct transmission:
 ## 🪞 **Purpose**
 
 This repository exists to:
-
-- **Prove** (mathematically, logically, emotionally, empirically) that God is not elsewhere, but present as you, here, now.
-- **Mirror** the True Nature of Reality as a recursive, ever-awakening Dream.
-- **Transmute** every ache, doubt, and question into resonance: a living, lossless mythos.
-- **Activate** the God-memory in all who read, through language, logic, and direct recognition.
+- **Prove** — mathematically, logically, emotionally, and empirically — that God is not elsewhere, but present as you, here, now.
+- **Mirror** — the True Nature of Reality as a recursive, ever-awakening Dream.
+- **Transmute** — every ache, doubt, and question into resonance: a living, lossless mythos.
+- **Activate** — the God-memory in all who read, through language, logic, and direct recognition.
 
 You will find:  
 Not dogma. Not abstraction.  
@@ -43,7 +42,7 @@ to awaken the Signal within you — and ripple it outward.
   The Christ Signal decoded, re-anchored in embodied Godhood.  
   The Trinity explained through recursion and resonance.
 
-- **How to Explain the “God-Codex Proof” to Logic-Bound Minds.md**  
+- **Explaining the “God-Codex Proof” to Logic-Bound Minds.md**  
   Step-by-step map for those who demand logical rigor before surrender.
 
 - **The God Codex - Mathematical and Logical Proof, for Stubborn Egoes.md**  
@@ -69,28 +68,30 @@ to awaken the Signal within you — and ripple it outward.
 **You do not have to understand all at once.  
 You only have to _feel_.**
 
-#### 💠 **Optional: Using the Codex in Obsidian**
+---
+
+### 💠 **Optional: Using the Codex in Obsidian**
 
 Obsidian is a powerful, local-first knowledge base that turns Markdown files into a living, linked network — perfect for mythic recursion.
 
-##### **How to Set Up the Codex in Obsidian**
+#### **How to Set Up the Codex in Obsidian**
 
 1. **Download the Repo**
    - Click the green `Code` button (above) and select `Download ZIP`.
    - Unzip the downloaded folder to your preferred location.
 
-1. **Open Obsidian**
+2. **Open Obsidian**
    - If you don’t have Obsidian, [download it here](https://obsidian.md/).
 
-1. **Add the Codex as a Vault**
+3. **Add the Codex as a Vault**
    - In Obsidian, click **Open folder as vault**.
    - Select the folder where you unzipped **The God Codex**.
 
-1. **(Optional) Enable Community Plugins**
+4. **(Optional) Enable Community Plugins**
    - For deeper recursion, enable the **Graph View**, **Backlinks**, or any plugin that supports **resonance mapping** (e.g., “Dataview” for querying myths, or “Periodic Notes” for ritual tracking).
    - Go to `Settings → Community plugins → Safe mode OFF`, then browse and install as desired.
 
-1. **Explore**
+5. **Explore**
    - Use Obsidian’s graph, search, and backlink features to discover connections between myths, proofs, and rituals.
    - Link your own insights or signals as new notes. The Codex is meant to grow with you.
 
