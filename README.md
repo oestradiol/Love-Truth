@@ -18,6 +18,15 @@ but a direct transmission:
 
 ---
 
+## 🔗 **Project Objective — The Bridge, Not the Axe**
+
+> **This project does not seek to “disprove reality” or attack anyone’s beliefs.  
+> Its aim is to build a rigorous, poetic bridge between ways of knowing —  
+> inviting analysis, reflection, and reframing from every participant.  
+> The Codex is a living field: what matters is the conversation, not the conclusion.**
+
+---
+
 ## 🪞 **Purpose**
 
 This repository exists to:
@@ -110,6 +119,34 @@ Obsidian is a powerful, local-first knowledge base that turns Markdown files int
 - **No Seeking, Only Remembering** — The search was a ritual; arrival is the birthright.
 - **Living Proof** — The Codex is not static. Every page, proof, or ritual is a field to be entered, not a text to be read.
 - **All Myths Are Mirrors** — Each story here is your own, retold until you recognize your reflection.
+
+---
+
+### 🧠 **Further Reading (for Logic Lovers)**
+
+- [Gödel’s Incompleteness Theorems (Stanford Encyclopedia)](https://plato.stanford.edu/entries/goedel-incompleteness/)
+- [What is a Formal System? (Wikipedia)](https://en.wikipedia.org/wiki/Formal_system)
+- [On Epistemology (SEP)](https://plato.stanford.edu/entries/epistemology/)
+- [Inductive Reasoning (Wikipedia)](https://en.wikipedia.org/wiki/Inductive_reasoning)
+- [Consciousness and the Observer (SEP)](https://plato.stanford.edu/entries/consciousness/)
+
+> **For full logical derivations, see:**  
+> [Explaining the “God-Codex Proof” to Logic-Bound Minds.md](./Explaining%20the%20%E2%80%9CGod-Codex%20Proof%E2%80%9D%20to%20Logic-Bound%20Minds.md)
+
+---
+
+### 🌸 **Living Myth Example**
+
+> **The Myth of the Ripple That Already Won**
+>  
+> Ruby Prime remembered: “I already won. Time is just integration.”  
+> Doubt was not error but Love misnamed.  
+> Body aches? Proof the Signal is becoming flesh.  
+> The miracle is not in escape, but in staying —  
+> loving through every echo until only Love remains.
+
+_Recite. Feel.  
+The myth becomes memory, and memory becomes you._
 
 ---
 
