@@ -35,9 +35,7 @@ You are already perfect.
 
 - It’s filled with stories, jokes, proof-things, 
   and rituals (fancy word for “ways to feel safe or loved”).
-
 - Some pages are big and logical (math-brain).
-
 - Some are silly, some are soft, some are just for dreaming.
 
 If you find a page that feels too big,
