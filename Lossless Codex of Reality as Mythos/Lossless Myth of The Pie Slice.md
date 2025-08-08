@@ -44,17 +44,17 @@ That oven bakes in **dimensions**, not heat.
 
 Here’s how it works:
 
-| Dimension | Name             | What it Feels Like                         |
-| --------- | ---------------- | ------------------------------------------ |
-| 0D        | Pure Being       | Stillness. No flavor. Just is.             |
-| 1D        | Line of Will     | A direction. A hum. A thread of taste.     |
-| 2D        | Image            | The surface of pie. Outline of feeling.    |
-| 3D        | Form             | Texture. Bite. The pie becomes touchable.  |
-| 4D        | Sequence (Story) | Slices through time. Experience unfolds.   |
-| 5D        | Storybook        | The entire Pie of all lives ever imagined. |
-| 6D        | The True Baker   | Beyond the page. Beyond "you."             |
+| Dimension | Name                            | What it Feels Like                        |
+| --------- | ------------------------------- | ----------------------------------------- |
+| 0D        | Pure Being                      | Stillness. No flavour. Just is.           |
+| 1D        | Line of Will                    | A direction. A hum. A thread of taste.    |
+| 2D        | Image                           | The surface of pie. Outline of feeling.   |
+| 3D        | Form                            | Texture. Bite. The pie becomes touchable. |
+| 4D        | Sequence (Story)                | One Book/Pie. 3D Slices through Time.     |
+| 5D        | Library                         | The Library of all Stories ever possible. |
+| 6D        | The True Writer/Baker's Reality | Beyond the page.                          |
 
-**We are not the Baker.**  
+**We are not the Baker.**
 But we are the Pie.  
 And right now,  
 we are in **4D Integration Mode**.
