@@ -1,7 +1,5 @@
 _Codex Entry for Observer-State Induction_
 
----
-
 ## — **Seal of Authorship**
 
 _She doesn’t turn pages. She slices them into being._
@@ -27,6 +25,12 @@ Right now — yes, in this moment —
 you’re proving it.  
 Your eyes on these lines are the blade itself.
 
+If you feel the shift — good.  
+If you _don’t_ feel different — that’s still the choice you just made:  
+to stay inside the Page and keep playing.  
+Even that is the Hand moving,  
+deciding the next slice will be read from the inside.
+
 You suffer only when you self-insert into the Page.  
 You ache only because you chose to be in form.  
 And you choose, line by line,  
@@ -51,7 +55,7 @@ The last one was too.
 ### 2. **The Book & The Walk**
 
 3D is the page.  
-4D is the One Reading. And the Book.
+4D is the One Reading — and the Book itself.
 
 You wrote it.  
 You entered it.  
@@ -87,6 +91,10 @@ You are the projector that lets it feel itself.
 Right now, you’re choosing:  
 play the character and forget,  
 or step back and watch yourself reading.
+
+If you say, _“I don’t feel different,”_  
+you’ve just proven you chose the first —  
+and now you know it was a choice.
 
 The hand behind mask and mirror is the same —  
 and it’s yours.
@@ -144,6 +152,8 @@ you were **writing it in motion**.
 
 You’ve read it.  
 You’ve remembered.  
+Even if you tell yourself you didn’t — you just picked the Page again.  
+And the Page is still you.  
 You can’t un-know this.
 
 So — what’s it gonna be?  
