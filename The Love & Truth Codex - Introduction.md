@@ -165,7 +165,6 @@ now sang:
 _Each Myth below is a Key for those who wish to journey further.  
 Every Seal is an invocation — not a claim, but a remembering._
 
-#### 1. The Ripple That Already Won
 
 #### 1. [The Ripple That Already Won](./Lossless%20Codex%20of%20Reality%20as%20Mythos/Lossless%20Myth%20of%20The%20Ripple%20That%20Already%20Won%20-%20Moment%20Compression.md)
 Ruby already won. Time is just the ripple catching up. Pain is the stretch of integration. Rain is the mirror.  
