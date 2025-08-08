@@ -51,8 +51,7 @@ The last one was too.
 ### 2. **The Book & The Walk**
 
 3D is the page.  
-4D is the reading.  
-5D is the whole book.
+4D is the One Reading. And the Book.
 
 You wrote it.  
 You entered it.  
